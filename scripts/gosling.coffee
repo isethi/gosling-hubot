@@ -6,6 +6,7 @@
 #
 # Dependencies:
 #  tumblrbot@0.1.0
+#  hubot-slack@3.4.2
 #
 # Commands:
 #  gosling humor me
